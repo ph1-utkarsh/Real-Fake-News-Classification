@@ -1,3 +1,6 @@
+pip>=24.0
+setuptools>=70.0
+wheel
 accelerate==1.3.0
 aiohappyeyeballs==2.4.6
 aiohttp==3.11.12
